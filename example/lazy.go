@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/misikdmytro/lazy/pkg/lazy"
+	"github.com/misikdmytro/lazy"
 )
 
 func main() {

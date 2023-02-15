@@ -1,10 +1,10 @@
-package test
+package lazy_test
 
 import (
 	"sync"
 	"testing"
 
-	"github.com/misikdmytro/lazy/pkg/lazy"
+	"github.com/misikdmytro/lazy"
 )
 
 func TestLazySingleThread(t *testing.T) {
